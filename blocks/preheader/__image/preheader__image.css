@@ -1,0 +1,7 @@
+.preheader__image {
+  width: 26px;
+  height: 26px;
+  background-image: url(../../../images/logo/Icon/usa.svg);
+  background-repeat: no-repeat;
+  margin: 0 10px 0 20px;
+}

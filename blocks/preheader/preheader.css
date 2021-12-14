@@ -1,0 +1,9 @@
+.preheader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1920px;
+  color: var(--primary-font);
+  background-color: var(--background-color);
+  min-height: 50px;
+}

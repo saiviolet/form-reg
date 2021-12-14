@@ -1,0 +1,5 @@
+.header__reg-text {
+  font: var(--main-font-style);
+  text-decoration: none;
+  color: var(--primary-font);
+}

@@ -1,0 +1,9 @@
+.header__logo-title {
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 150%;  
+  color: var(--primary-font);
+  margin: 0;
+}

@@ -1,0 +1,13 @@
+.button_style_border {
+  background: 
+     linear-gradient(var(--background-color),var(--background-color)) padding-box,
+     var(--primary-gradient) border-box;
+    border: 1px solid transparent;
+    border-radius: 550px;
+    /* transition: background 1s ease-out; */
+}
+
+.button_style_border:hover {
+  background: var(--primary-gradient);
+  /* background-position: 138px; */
+}
