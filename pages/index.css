@@ -22,3 +22,6 @@
 
 @import url(../blocks/button/button.css);
 @import url(../blocks/button/_style/button_style_border.css);
+@import url(../blocks/button/_style/button_style_background.css);
+
+@import url(../blocks/reg-form/reg-form.css);
