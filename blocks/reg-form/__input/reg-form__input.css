@@ -10,9 +10,7 @@
   outline: none;
   background-position: 30px;
   background-repeat: no-repeat;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-       appearance: none;
+
   
 
   font: var(--main-font-style);
