@@ -25,3 +25,13 @@
 @import url(../blocks/button/_style/button_style_background.css);
 
 @import url(../blocks/reg-form/reg-form.css);
+@import url(../blocks/reg-form/__input/reg-form__input.css);
+@import url(../blocks/reg-form/__title/reg-form__title.css);
+@import url(../blocks/reg-form/__text/reg-form__text.css);
+@import url(../blocks/reg-form/__DOB-container/reg-form__DOB-container.css);
+@import url(../blocks/reg-form/__DOB/reg-form__DOB.css);
+@import url(../blocks/reg-form/__input/_destination/reg-form__input_destination_date.css);
+@import url(../blocks/reg-form/__input/_destination/reg-form__input_destination_email.css);
+@import url(../blocks/reg-form/__input/_destination/reg-form__input_destination_name.css);
+@import url(../blocks/reg-form/__input/_destination/reg-form__input_destination_password.css);
+@import url(../blocks/reg-form/__input/_destination/reg-form__input_destination_year.css);

@@ -1,0 +1,6 @@
+.reg-form__text {
+  margin: 0;
+  padding: 0;
+  color: var(--secondary-font);
+  font: var(--main-font-style);
+}
