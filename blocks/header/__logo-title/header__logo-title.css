@@ -1,0 +1,5 @@
+.header__logo-title {
+  font: var(--logo-font-style);
+  color: var(--primary-font);
+  margin: 0;
+}

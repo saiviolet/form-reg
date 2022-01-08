@@ -1,0 +1,44 @@
+.reg-form__input {
+  box-sizing: border-box;
+  padding: 23px 43px 23px 70px;
+  margin: 0;
+  /* width: 380px; */
+  height: 70px;
+  background-color: var(--noactive-background);
+  border-radius: 500px;
+  border: none;
+  outline: none;
+  background-position: 30px;
+  background-repeat: no-repeat;
+
+  
+
+  font: var(--main-font-style);
+  color: var(--noactive-font);
+}
+
+.reg-form__input::placeholder {
+  font: var(--main-font-style);
+  color: var(--noactive-font);
+}
+
+.reg-form__input::-webkit-input-placeholder {
+  font: var(--main-font-style);
+  color: var(--noactive-font);
+}
+
+.reg-form__input::-moz-placeholder {
+  font: var(--main-font-style);
+  color: var(--noactive-font);
+  opacity: 1;
+}
+
+.reg-form__input::-ms-input-placeholder {
+  font: var(--main-font-style);
+  color: var(--noactive-font);
+}
+
+.reg-form__input:-moz-placeholder {
+  font: var(--main-font-style);
+  color: var(--noactive-font);
+}

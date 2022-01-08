@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./pages/index.css">
+</head>
+<body class="page">
+  <header class="preheader">
+    <label class="preheader__title" for="select-country">Знакомства по всему миру</label>
+    <!-- временно стоит картинка так -->
+    <div class="preheader__image"></div>
+    <select name="select-country" size="1" id='select-country' class="list">
+      <option selected value="usa" class="list__image">Америка</option>
+      <option value="usa2" class="list__image">Америка</option>
+     </select>
+  </header>
+  <header class="header">
+    <div class="header__logo-container">
+      <div class="header__logo-image"></div>
+      <p class="header__logo-title">Znakomstva.com</p>
+    </div>
+    <div class="header__login-container">
+      <a href="#" class="header__reg-text">Уже есть аккаунт?</a>
+      <a href="#" class="header__button button button_style_border">Войти</a>
+    </div>
+  </header>
+  <main class="main">
+    <h2 class="reg-form__title ">Создай новый аккаунт</h2>
+    <p class="reg-form__text reg-form__subtitle">Присоединяйся к сообществу из 518 млн человек!</p>
+    <form action="index.html" class="reg-form">
+      <input type="text" class="reg-form__input reg-form__input_destination_name" placeholder="Ваше имя">
+      <div class="reg-form__DOB-container">
+        <p class="reg-form__text">Дата Рождения</p>
+        <ul class="reg-form__DOB">
+          <li><input type="number" class="reg-form__input reg-form__input_destination_date" placeholder="День"></li>
+          <li><input type="number" class="reg-form__input reg-form__input_destination_month" placeholder="Месяц"></li>
+          <li><input type="number" class="reg-form__input reg-form__input_destination_year" placeholder="Год"></li>
+        </ul>
+      </div>
+      <input type="email" class="reg-form__input reg-form__input_destination_email" placeholder="Введите электронную почту">
+      <input type="password" class="reg-form__input reg-form__input_destination_password" placeholder="Введите пароль">
+      <button type="submit" class="reg-form__button button button_style_background">Создать аккаунт</button>
+    </form>
+
+  </main>
+  <!-- <div class="page__circle-blur"></div> -->
+</body>
+</html>

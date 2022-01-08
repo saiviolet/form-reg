@@ -1,0 +1,7 @@
+.reg-form__input_destination_year {
+  width: 100px;
+  padding: 23px 0 23px 30px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+       appearance: none;
+}

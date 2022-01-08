@@ -1,0 +1,6 @@
+.header__login-container {
+  min-width: 303px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

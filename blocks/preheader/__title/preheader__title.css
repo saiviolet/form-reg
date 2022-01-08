@@ -1,0 +1,5 @@
+.preheader__title {
+  font: var(--elements-font-style);
+  text-transform: uppercase;
+  border: 0;
+}

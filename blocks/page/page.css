@@ -1,0 +1,22 @@
+.page {
+  --background-color: #1B0522;
+  --secondary-color: #EE0979;
+  --third-color: #FF6A00;
+  --primary-font: #fff;
+  --secondary-font: #6E447B;
+  --noactive-background: #42204E;
+  --noactive-font: #8B5D9A;
+  --primary-gradient: linear-gradient(90deg, var(--secondary-color), var(--third-color));
+  --footer-font-style: 400 14px/21px Rubik;
+  --main-font-style: 400 16px/24px Rubik;
+  --elements-font-style: 500 16px/24px Rubik;
+  --header-font-style: 500 36px/54px Rubik;
+  --logo-font-style: 500 22px/33px Rubik;
+  
+
+  max-width: 1920px;
+  margin: 0 auto;
+  background-color: var(--background-color);
+  position: relative;
+  overflow: hidden;
+}

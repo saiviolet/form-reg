@@ -1,0 +1,9 @@
+.page__circle-blur {
+  position: absolute;
+  width: 1345px;
+  height: 1345px;
+  left: -223px;
+  top: 379px;
+  background: #381A42;
+  filter: blur(300px);
+}
